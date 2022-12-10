@@ -4,5 +4,5 @@ Laboratory works on the subject "Fundamentals of software development on the Jav
 ***
 
 Варіант:
-**С2** = 1,  **С3** = 0,  **C5** = 4,   **C7** = 6,  **C11** = 7
+**С2** = 1,  **С3** = 0,  **C5** = 4,   **C7** = 6,  **C11** = 7, **C17** = 5
 
